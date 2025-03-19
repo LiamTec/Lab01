@@ -55,8 +55,7 @@ Create templates in core/templates/
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-👤 Author
-Your Name
+👤 Gonzales Rojas Liam, Davila Perez Alessandro, Gean Pierre Santana
 
 Built with ❤️ using Django 5
 
